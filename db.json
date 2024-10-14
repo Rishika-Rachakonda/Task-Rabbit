@@ -1,0 +1,60 @@
+{
+  "todo": [
+    {
+      "taskname": "Prepare for internal (OS)",
+      "starttime": "18:00",
+      "endtime": "08:00",
+      "cateogery": "Study",
+      "status": "completed",
+      "id": "1"
+    },
+    {
+      "taskname": "Ppt preparation",
+      "starttime": "11:01",
+      "endtime": "12:00",
+      "cateogery": "Study",
+      "status": "pending",
+      "id": "2"
+    },
+    {
+      "taskname": "Dt External Preparation",
+      "starttime": "10:00",
+      "endtime": "11:00",
+      "cateogery": "Study",
+      "status": "pending",
+      "id": "3"
+    },
+    {
+      "taskname": "Preparation",
+      "starttime": "10:50",
+      "endtime": "11:00",
+      "cateogery": "Study",
+      "status": "completed",
+      "id": "4"
+    },
+    {
+      "taskname": "zoom meet",
+      "starttime": "12:00",
+      "endtime": "12:10",
+      "cateogery": "Study",
+      "status": "pending",
+      "id": "5"
+    },
+    {
+      "id": "4912",
+      "taskname": "Eating sis brain",
+      "starttime": "17:57",
+      "endtime": "18:57",
+      "cateogery": "Sports",
+      "status": "ongoing"
+    },
+    {
+      "id": "2d72",
+      "taskname": "Eating sis brain",
+      "starttime": "17:17",
+      "endtime": "13:20",
+      "cateogery": "Personal",
+      "status": "pending"
+    }
+  ]
+}

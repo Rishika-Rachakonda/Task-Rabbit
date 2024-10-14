@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lobster&display=swap');
+.img-reg
+{
+    background-image: url(../Images/stickyNote2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 90vh;
+    position: relative;
+}
+
+.note
+{
+    margin: auto;
+    position: absolute;
+    top: 20%;
+    left: 5%;
+    background-color: rgb(244, 190, 228);
+    padding: 50px;
+    border-radius: 10px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.form-img{
+    margin: auto;
+    position: absolute;
+    top: 60%;
+    left: 60%;
+    background-color: rgb(244, 190, 228);
+    padding: 50px;
+    border-radius: 10px;
+    font-family: 'Dancing Script', cursive;
+    width: 300px;
+}
+
+.btn
+{
+    margin: 10px;
+}
+
+.file
+{
+    margin: 10px;
+}
