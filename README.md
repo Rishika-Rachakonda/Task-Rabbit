@@ -1,4 +1,4 @@
-# Todo app
+# Task Rabbit
 A simple Task Management buit with React Js and Local Api
 
 Topo app to enter all our jobs to be done and look status of our work 
